@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    margin: 40px;
+    padding: 25px;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://images8.alphacoders.com/755/thumb-1920-755323.jpg);
+    background-size: 100%;
+    color: rgba(0, 132, 255, 0.63);
+}
+
+nav ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: rgb(206, 132, 248)
+}
+
+#container {
+    background-color: rgba(0, 0, 0, 0.685);
+    height: 100%;
+}
