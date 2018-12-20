@@ -12,6 +12,8 @@ body{
     color: rgba(0, 132, 255, 0.63);
 }
 
+
+
 nav ul {
     position: fixed;
     top: 0;
@@ -30,10 +32,22 @@ nav ul li{
 nav ul li a {
     display: block;
     padding: 10px;
-    background-color: darkorchid;
+    background-color: rgb(140, 59, 180);
 }
 
 #container {
     background-color: rgba(0, 0, 0, 0.685);
     height: 100%;
+}
+
+ul {
+    color: rgb(67, 212, 74);
+}
+
+p {
+    color: rgb(101, 218, 78);
+}
+
+a {
+    color: rgb(101, 218, 78);
 }
